@@ -1,4 +1,4 @@
-#include "holberton.h"
+#include "main.h"
 
 /**
  * print_times_table - prints times table
@@ -6,7 +6,7 @@
  * Return: Always 0.
  */
 
-void print_times_table(int n)
+void print_times_table(void)
 {
 
 	int a = 0, rep, b;
