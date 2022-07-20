@@ -1,8 +1,9 @@
-#include "main.h"
+#include "holberton.h"
+
 /**
  * print_times_table - prints times table
  * @n : times table to use
- * Return: void
+ * Return: Always 0.
  */
 
 void print_times_table(int n)
